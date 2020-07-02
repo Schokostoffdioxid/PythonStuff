@@ -7,8 +7,9 @@ from mq import *
 
 #parameters
 channel_id = 770161
-write_key  = '7FA8M36YRY1IHH1V'
-read_key   = 'DC0NWROA3XOXMC09'
+#add real key
+write_key  = 'x'
+read_key   = 'x'
 pin = 4
 sensor = Adafruit_DHT.DHT11
 mq = MQ();
