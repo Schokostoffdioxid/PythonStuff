@@ -10,4 +10,4 @@ Step 3 publish
 Step 4 ?
 
 Step 5 
-[STONKS](https://i.imgur.com/nSMXJ3N.png)
+[](https://i.imgur.com/nSMXJ3N.png)
